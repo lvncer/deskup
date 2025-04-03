@@ -3,14 +3,14 @@ weather_api_key = "your_api_key_here"
 location = "Tokyo"
 country_code = "JP"
 [[bookmarks.desktop]]
-name = "作業"
+name = "develop"
 
 [[bookmarks.desktop.items]]
-name = "メモ帳"
+name = "notepad"
 url = "notepad"
 
 [[bookmarks.web]]
-name = "検索"
+name = "Search"
 
 [[bookmarks.web.items]]
 name = "Google"
